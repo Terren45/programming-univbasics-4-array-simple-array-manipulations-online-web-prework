@@ -1,2 +1,3 @@
 artists = ["MJ", "BJ"]
-artist.push
+next_artist = "CJ"
+artists.push(next_artist)
