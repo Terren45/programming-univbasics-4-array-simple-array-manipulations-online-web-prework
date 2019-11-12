@@ -1,2 +1,2 @@
-artists = ["MJ", "BJ", "DJ", "PJ"]
+artists = ["MJ", "BJ"]
 artist.push
